@@ -1,0 +1,22 @@
+{
+  "name": "data_structure",
+  "version": "0.1.0",
+  "description": "Implements data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7mirnoff/data-structures.git"
+  },
+  "keywords": [
+    "structures"
+  ],
+  "author": "Dmitry Smirnov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7mirnoff/data-structures/issues"
+  },
+  "homepage": "https://github.com/7mirnoff/data-structures#readme"
+}
